@@ -9,4 +9,4 @@
 }
 ```
 
-[Ссылка на урок]​([URL](https://practicum.yandex.ru/trainer/middle-frontend/lesson/f4f1504a-11f1-46d3-9a87-7e06668fe67b/task/23528c05-87a2-47e2-80bc-752b0e3cb1e4/))
+[Ссылка на урок](https://practicum.yandex.ru/trainer/middle-frontend/lesson/f4f1504a-11f1-46d3-9a87-7e06668fe67b/task/23528c05-87a2-47e2-80bc-752b0e3cb1e4/)
