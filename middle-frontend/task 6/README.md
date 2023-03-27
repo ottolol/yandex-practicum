@@ -4,6 +4,6 @@
 
 [Ссылка на урок](https://practicum.yandex.ru/trainer/middle-frontend/lesson/f4f1504a-11f1-46d3-9a87-7e06668fe67b/task/6bc0674a-4986-4052-98bf-0d3aa740ee0a/)
 
-Решение - [Ссылка на подсказку - stackoverflow](https://stackoverflow.com/questions/38334062/why-do-you-need-to-bind-a-function-in-a-constructor) нужно было привязать каждый метод в конструкторе методом ```bind(this)```.<br>
+Решение - [Ссылка на подсказку - stackoverflow](https://stackoverflow.com/questions/38334062/why-do-you-need-to-bind-a-function-in-a-constructor) нужно было привязать каждый метод в конструкторе методом ```bind(this)```. Т.е. нужно внутри класса, методы создавать так, чтобы this была прибита к экземпляру класса.<br>
 ```this.method = this.method.bind(this);```<br>
 ```this.getInfo = this.getInfo.bind(this);```
