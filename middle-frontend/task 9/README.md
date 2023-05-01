@@ -7,6 +7,6 @@
 Решение:<br>
 Для получения списка узлов по селектору можно воспользоваться методом ```.querySelectorAll```.<br>
 Так как результатом является ```NodeList``` из него нужно сделать ```Array```, например с помощью метода ```Array.from```:
-``
+```
 return Array.from(document.querySelectorAll(selector));
 ```
